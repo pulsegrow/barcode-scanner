@@ -1,6 +1,6 @@
 {
   "name": "@pulse-grow-capacitor-community/barcode-scanner",
-  "version": "7.0.0",
+  "version": "7.0.1",
   "description": "A fast and efficient (QR) barcode scanner for Capacitor",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
